@@ -1,6 +1,9 @@
 body {
   background-color: #5185B6;
 }
+.jumbotron {
+  background-color: #8CB3D7;
+}
 h1 {
   font-family: 'Franklin Gothic Medium';
   text-align: center;
@@ -14,9 +17,15 @@ img {
   left: 25%;
   height: 50%;
   width: 50%;
+  margin: auto 10px;
+  border: 5px solid lavender;
+  border-radius: 25px;
+  padding: 5px;
+  background-color: white;
+}
 }
 .edu {
-  color: royalblue;
+  color: navy;
 }
 h2 {
   font-family: 'Franklin Gothic Medium';
@@ -25,4 +34,11 @@ h2 {
   margin: 25px;
   border: 25px;
   padding: 25px;
+}
+.panel-heading {
+  background-color: black;
+}
+.panel-body {
+  background-color: lightslategray;
+  color: whitesmoke;
 }
