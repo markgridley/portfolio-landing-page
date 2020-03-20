@@ -1,6 +1,6 @@
 # _Portfolio Landing Page_
 
-#### _This website was created as a portfolio. Latest update 03/20/2020 Version 1.1_
+#### _This is a personal portfolio created for a project with Epicodus. Latest update 03/20/2020 Version 1.1_
 
 #### By _**Mark G.**_
 
@@ -41,10 +41,10 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 
 ## Technologies Used
 
-_*HTML_
-_*CSS_
-_*Bootstrap_
-_*markdown_
+_*HTML*_
+_*CSS*_
+_*Bootstrap*_
+_*markdown*_
 
 ### License
 
