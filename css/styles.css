@@ -27,13 +27,31 @@ img {
 .edu {
   color: navy;
 }
-h2 {
+.projects {
   font-family: 'Franklin Gothic Medium';
+  text-align: center;
+  color: black;
+}
+.card {
+  position: relative;
+  top: 10px;
+  left: 10%;
+  width: 80%;
+  height: 30%;
+  margin: auto 10px;
+  border: 5px solid lavender;
+  border-radius: 25px;
+  padding: 5px;
+  background-color: white;
+  float: bottom;
+  color: black;
+
 }
 .panel {
-  margin: 25px;
-  border: 25px;
-  padding: 25px;
+  margin: 10px;
+  border: 5px solid lavender;
+  padding: 5px;
+  background-color: white;
 }
 .panel-heading {
   background-color: black;
