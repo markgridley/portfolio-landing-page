@@ -1,7 +1,22 @@
 body {
   background-color: #5185B6;
 }
+h1 {
+  font-family: 'Franklin Gothic Medium';
+  text-align: center;
+}
 img {
+  position: relative;
+  top: 50%;
+  left: 25%;
   height: 50%;
   width: 50%;
+}
+h2 {
+  font-family: 'Franklin Gothic Medium';
+}
+.panel {
+  margin: 25px;
+  border: 25px;
+  padding: 25px;
 }
