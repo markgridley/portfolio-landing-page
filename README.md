@@ -2,12 +2,13 @@
 
 #### _This is a personal portfolio created for a project with Epicodus. Latest update 03/20/2020 Version 1.1_
 
-#### By _**Mark G.**_
+#### By _**Mark Gridley**_
 
 
 ## Description
 
 _This is a website that will soon act as a landing page for Mark Gridley's programming portfolio_
+_https://markgridley.github.io/portfolio-landing-page/_
 
 
 ## Setup/Installation Requirements
